@@ -19,7 +19,7 @@ public class Button_Count implements ActionListener {
 	
 	
 	public Button_Count() {
-		frame = new JFrame("Button-Count");
+		frame = new JFrame("Clicker");
 		frame.setSize(300, 200);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setResizable(false);
